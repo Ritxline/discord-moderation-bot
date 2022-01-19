@@ -1,5 +1,5 @@
 
-# 30 starda bot gelecektir.
+# 30 star - 10 forkda bot gelecektir.
 Dostlarım hepinize merhaba bot yazmaya yeni başladığım zamanlar kodladığım bir botu paylaşacağım
 eminimki eski olmasına rağmen piyasadaki moderasyon botlarından kat kat daha iyidir.
 # İçinde Bulunan Sistemler;
