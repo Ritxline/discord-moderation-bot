@@ -1,7 +1,7 @@
 
 # 30 starda bot gelecektir.
 Dostlarım hepinize merhaba bot yazmaya yeni başladığım zamanlar kodladığım bir botu paylaşacağım
-eminimki eski olmasına rağmen piyasadaki moderasyon botlarından kat kat daha iyidir
+eminimki eski olmasına rağmen piyasadaki moderasyon botlarından kat kat daha iyidir.
 # İçinde Bulunan Sistemler;
 register,moderasyon,coin,ve bazı yeni ekleyeceğim özelikler bulumaktadır 
 yaklaşık 60 komut bulunmaktadır ve dahada artıracağım.
