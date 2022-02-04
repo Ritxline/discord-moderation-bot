@@ -6,7 +6,7 @@ eminimki eski olmasına rağmen piyasadaki moderasyon botlarından kat kat daha 
 register,moderasyon,coin,ve bazı yeni ekleyeceğim özelikler bulumaktadır 
 yaklaşık 60 komut bulunmaktadır ve dahada artıracağım.
 # Contact
-* [İnstagram](https://instagram.com/rit4sante)
+* [İnstagram](https://instagram.com/ritalinexrd)
 * [Discord Profilim](https://discord.com/users/889258927592706068)
 
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
