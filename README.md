@@ -4,7 +4,8 @@ Dostlarım hepinize merhaba bot yazmaya yeni başladığım zamanlar kodladığ�
 eminimki eski olmasına rağmen piyasadaki moderasyon botlarından kat kat daha iyidir.
 # İçinde Bulunan Sistemler;
 register,moderasyon,coin,ve bazı yeni ekleyeceğim özelikler bulumaktadır 
-yaklaşık 60 komut bulunmaktadır ve dahada artıracağım.
+yaklaşık 60 komut bulunmaktadır ve dahada artıracağım 
+Not: bota .logkur .emojikur .setup komutu eklenmiştir.
 # Contact
 * [İnstagram](https://instagram.com/ritalinexrd)
 * [Discord Profilim](https://discord.com/users/889258927592706068)
