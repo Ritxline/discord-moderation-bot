@@ -8,7 +8,7 @@ yaklaşık 60 komut bulunmaktadır ve dahada artıracağım
 Not: bota .logkur .emojikur .setup komutu eklenmiştir.
 # Contact
 * [İnstagram](https://instagram.com/ritalinexrd)
-* [Discord Profilim](https://discord.com/users/889258927592706068)
+* [Discord Profilim](https://discord.com/users/928442849874288682)
 
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
